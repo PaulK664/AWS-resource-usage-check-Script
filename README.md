@@ -9,5 +9,7 @@ The opbjective of this lab is to use a shell script efficiently audits and monit
 - AWS EC2
 - Linux
 - Shell
+- MobaXterm
   
 # Steps
+![image](https://github.com/user-attachments/assets/45b780e7-bef2-4772-917f-d28ae79eaab0)
